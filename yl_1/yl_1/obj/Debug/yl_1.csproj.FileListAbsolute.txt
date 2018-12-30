@@ -1,0 +1,7 @@
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\bin\Debug\yl_1.exe.config
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\bin\Debug\yl_1.exe
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\bin\Debug\yl_1.pdb
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\obj\Debug\yl_1.csprojAssemblyReference.cache
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\obj\Debug\yl_1.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\obj\Debug\yl_1.exe
+C:\Users\Frank\Desktop\Frank_proge3\yl_1\yl_1\obj\Debug\yl_1.pdb

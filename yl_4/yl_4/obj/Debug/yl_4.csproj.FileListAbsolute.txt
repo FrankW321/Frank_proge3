@@ -1,0 +1,7 @@
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\bin\Debug\yl_4.exe.config
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\bin\Debug\yl_4.exe
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\bin\Debug\yl_4.pdb
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\obj\Debug\yl_4.csprojAssemblyReference.cache
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\obj\Debug\yl_4.csproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\obj\Debug\yl_4.exe
+C:\Users\Frank\Desktop\Frank_proge3\yl_4\yl_4\obj\Debug\yl_4.pdb
